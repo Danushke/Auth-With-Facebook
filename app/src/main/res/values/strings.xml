@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face Book Sign in</string>
+
+    <string name="facebook_app_id">852856132871200</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">10f9a53b0443e714632e1621845288d8</string>
+</resources>

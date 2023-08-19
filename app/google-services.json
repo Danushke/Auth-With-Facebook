@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182107895969",
+    "project_id": "face-book-sign-in-7e482",
+    "storage_bucket": "face-book-sign-in-7e482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182107895969:android:1ed5c7790d06427b8d98e0",
+        "android_client_info": {
+          "package_name": "com.example.facebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182107895969-pce28vo4docojuo0v8m3j4k0ipr6uutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmBo3ZKKn6GL29hbVLVTqZ_D8_XsJDB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182107895969-pce28vo4docojuo0v8m3j4k0ipr6uutv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
